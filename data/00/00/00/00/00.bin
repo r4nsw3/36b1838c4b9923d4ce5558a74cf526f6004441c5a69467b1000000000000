@@ -1,0 +1,158 @@
+                                     .
+ ________.         ________          :__________            karl*    _____\___.
+_\       |________/       /_________ |        _/________\________   /     \\  |
+_\\      |       /      _/_\ _      \|       /     _     \       \ //      \\ |
+|\\      |     _//     ___/_\\     \ \      //     |     _\     \ \/ /     _\\|
+| \\     :      /      |      \     \     _//      :      \\     \  /|      \\_
+|__\\__________/_______________\____|\_____/_______________\_____|\/ |_______\
+ <:-\-------------------------------------/--------------------------:------:-
+  .                                                                  .      |
+  |     P r o u d l y   P r e s e n t s                                     |
+  |   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   |
+  |                                                                         |
+  |       Title : Power Rangers: Battle for the Grid (Update v1.6.0)        |
+  |                                                                         |
+  |   Publisher : nWay                        Platform : Nintendo Switch    |
+  |   Developer : nWay Inc.                     Origin : eShop              |
+  |       Genre : Fighting / Action           Title ID : 0100E1E00CF1A800   |
+  :        Date : October 2019                  Format : 28x50MB / NSP      |
+  .__                                                                     //|
+  | /---------------------------------------------------------------------/_:
+  |//                                                                       .
+  |     R e l e a s e   N o t e s                                           |
+  |   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   |
+  |                                                                         |
+  |   It's Morphin Time! Power Rangers finally comes to Nintendo Switch.    |
+  |   Pit current and classic Rangers like never before in 3 vs. 3 tag      |
+  |   battles.                                                              |
+  |                                                                         |
+  |   A modern take on the 25 year franchise, Power Rangers: Battle for     |
+  |   the Grid showcases stunning graphics and vivid details. Pit current   |
+  |   and classic Rangers and villains like never before in 3 vs. 3 tag     |
+  |   battles. Test your skills online against friends and players from     |
+  |   around the world for endless replayability. A streamlined combat      |
+  |   system welcomes newcomers with simplified controls while              |
+  |   maintaining depth for the most dedicated competitor to learn and      |
+  |   master.                                                               |
+  |                                                                         |
+  |   25 YEARS OF RANGERS.                                                  |
+  |                                                                         |
+  |   Generations of Power Rangers collide across the multiverse's 25       |
+  |   year history. Experience authentic but reimagined Power Rangers       |
+  |   battle sequences like never before.                                   |
+  |                                                                         |
+  |   EASY TO LEARN, HARD TO MASTER.                                        |
+  |                                                                         |
+  |   Power Rangers: Battle for the Grid features traditional fighting      |
+  |   game controls. This easy to learn but hard to master game is          |
+  |   designed to welcome players of all skill levels.                      |
+  |                                                                         |
+  |   Languages: English, French, German, Spanish and Portuguese.           |
+  |                                                                         |
+  |   Update Notes: v1.6.0 (v524288). Firmware 9.0.1 and master key 7.0     |
+  |   are required.                                                         |
+  |                                                                         |
+  |   The new Update adds Data for new DLC Character 'Eric Myers'           |
+  |   released today and other fixes and gameplay changes                   |
+  |                                                                         |
+  |   Visit battleforthegrid.com for more info on character changes.        |
+  |                                                                         |
+  |   Known Issues                                                          |
+  |                                                                         |
+  |   * An issue with Magna Defender's wall bounce OTG state, causing him   |
+  |     to receive an incorrect hit reaction from certain OTG attacks. To   |
+  |     be fixed in a future patch                                          |
+  |                                                                         |
+  |   * Certain projectile limitations can be bypassed with specific        |
+  |     inputs. To be fixed in a future patch                               |
+  |                                                                         |
+  |   Bug Fixes                                                             |
+  |                                                                         |
+  |   * Throws are no longer breakable if the victim is being thrown        |
+  |     during an attack, stagger, or crumple state                         |
+  |                                                                         |
+  |   * Megazord attacks summoned while enemy is KO'd now correctly         |
+  |     position themselves                                                 |
+  |                                                                         |
+  |   * Block damage KO's on most Special, EX, and Super attacks fixed      |
+  |     (all block damage should be able to KO)                             |
+  |                                                                         |
+  |   * Assists no longer count toward the hit reaction limiter. E.g.,      |
+  |     launching an assist no longer counts toward the 2 max launcher      |
+  |     limit                                                               |
+  |                                                                         |
+  |   * Assists no longer apply pushback while they're being hit in the     |
+  |     corner. I.e., "Happy Birthdays" (two-for-one sales) and "Merry      |
+  |     Christmases" (comboing the entire enemy team) near the corner       |
+  |     should no longer cause massive push back against the attacker       |
+  |                                                                         |
+  |   * Fixed various button input issues: holding attack buttons while     |
+  |     tapping directions should no longer trigger Special and unique      |
+  |     attacks. Tapping back + light + medium on the same frame now        |
+  |     executes a back dash instead of a forward dash                      |
+  |                                                                         |
+  |   * Fixed an issue with throws not properly interacting with armor      |
+  |     moves. I.e., throw hitboxes will always grab armored attacks like   |
+  |     Dragon Armor Trini's standing heavy and Magna Defender's back       |
+  |     medium attack (if timed properly, of course)                        |
+  |                                                                         |
+  |   * Beam projectiles are no longer reflectable. Dragon Armor Trini's    |
+  |     neutral Special can no longer be reflected by Shadow Ranger's       |
+  |     forward Special parry attack, for instance                          |
+  |                                                                         |
+  |   * Most normal attack sound effects no longer linger when played on    |
+  |     the first frame of their attack, reducing the amount of phantom     |
+  |     sounds (when plink dashing, for example)                            |
+  |                                                                         |
+  |   System-Wide                                                           |
+  |                                                                         |
+  |   * All characters now have non-Super attacks with OTG properties,      |
+  |     opening up even more combo routes. I.e., specific attacks for       |
+  |     each character can now pick up enemies off of the ground after      |
+  |     certain hard knockdowns                                             |
+  |                                                                         |
+  |   * Super armor visual and sound effects improved. Super armor now      |
+  |     triggers a distinct sound with a distinct character shader          |
+  |                                                                         |
+  |   * Hitstun deterioration for ground-based hitstun is now slightly      |
+  |     more aggressive, mitigating certain ground-based loop combos        |
+  |                                                                         |
+  |   Megazord Ultras                                                       |
+  |                                                                         |
+  |   * Mega Goldar's light attack (triple stab) now juggles a bit more     |
+  |     consistently, and now has OTG properties                            |
+  |                                                                         |
+  |   * Dragonzord's heavy attack (tail swing) now has OTG properties       |
+  |                                                                         |
+  |   * Dino Megazord's medium attack (stomp and punt): stomp portion now   |
+  |     has OTG properties and the kick portion now has a much bigger       |
+  |     hitbox                                                              |
+  |                                                                         |
+  |   * Delta Squad Megazord's light attack (judgment) effect applies       |
+  |     much earlier. Cooldown reduced slightly                             |
+  |                                                                         |
+  |   * Delta Squad Megazord's medium attack lockdown effects (air block    |
+  |     disable and jump disable) duration increased by 50%. Startup        |
+  |     reduced slightly, with recovery being increased, making it less     |
+  |     "spammable", but more impactful                                     |
+  |                                                                         |
+  |   * Delta Squad Megazord's heavy attack startup and cooldown            |
+  |     increased slightly                                                  |
+  |                                                                         |
+  |   Make sure to get our updated DLC Unlocker to access Eric Myers.       |
+  :                                                                         |
+  .__                                                                     //|
+  | /---------------------------------------------------------------------/_:
+  |//                                                                       .
+  |     G r e e t i n g s                                                   |
+  |   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   |
+  |                                                                         |
+  |            Abstrakt . Anthrox . Capital . Caravan . Complex             |
+  |    Dual Crew Shining . Duplex . Echelon . Eurasia . Kalisto . Legacy    |
+  |    Lightforce . Menace . Miracle . Mode 7 . Money . Mystic . Napalm     |
+  |    Nightfall . Oldskool . Paradox . Premiere . Project X . Protocol     |
+  |      Quartex . Quasar . Rising Sun . Scoopex . Sneakers . Triforce      |
+  |                                                                         |
+ -:-------------------------------------------------------------------------:>
+  |                                                                         |
+  .                   VENOM - Mighty Morphin! Since 2001.                   .
